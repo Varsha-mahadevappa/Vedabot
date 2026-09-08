@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-950 text-gray-100 font-['Inter',sans-serif] antialiased;
+  }
+
+  ::-webkit-scrollbar {
+    @apply w-1.5;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-gray-900;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-saffron-700 rounded-full;
+  }
+}
+
+@layer components {
+  .devanagari {
+    font-family: "Noto Sans Devanagari", sans-serif;
+  }
+
+  .chat-bubble-user {
+    @apply bg-saffron-600 text-white rounded-2xl rounded-tr-sm px-4 py-3 max-w-[80%] ml-auto;
+  }
+
+  .chat-bubble-bot {
+    @apply bg-gray-800 text-gray-100 rounded-2xl rounded-tl-sm px-4 py-3 max-w-[85%];
+  }
+
+  .sanskrit-card {
+    @apply bg-gradient-to-br from-vedic-brown to-vedic-dark border border-saffron-700/40
+           rounded-xl p-4 my-3;
+  }
+
+  .blockchain-badge-verified {
+    @apply inline-flex items-center gap-1 text-xs bg-green-900/50 text-green-400
+           border border-green-700/40 rounded-full px-2 py-0.5;
+  }
+
+  .blockchain-badge-unverified {
+    @apply inline-flex items-center gap-1 text-xs bg-gray-800 text-gray-400
+           border border-gray-700/40 rounded-full px-2 py-0.5;
+  }
+}

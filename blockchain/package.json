@@ -1,0 +1,19 @@
+{
+  "name": "vedabot-blockchain",
+  "version": "1.0.0",
+  "description": "VedaBot smart contracts for Shardeum",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network shardeum_sphinx",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "seed": "hardhat run scripts/seed.js --network shardeum_sphinx"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

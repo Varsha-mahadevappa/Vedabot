@@ -1,0 +1,57 @@
+SOURCE: Sanskrit Vedic Concepts Glossary
+CATEGORY: Sanskrit Knowledge
+DESCRIPTION: Key Sanskrit philosophical concepts from the Vedic tradition with definitions, etymology, and usage in texts.
+
+---
+CONCEPT: Dharma
+SANSKRIT: धर्म
+TRANSLITERATION: dharma
+DEFINITION: Dharma is a key concept in Indian philosophy referring to the cosmic order, right conduct, moral law, duty, and religion. It comes from the Sanskrit root 'dhri' meaning 'to hold' or 'to sustain'. In the Bhagavad Gita, Krishna instructs Arjuna to follow his svadharma (own duty). The concept varies by context — universal dharma (rita) governs cosmic order, while individual dharma guides personal conduct based on one's nature, stage of life (ashrama), and social role (varna).
+
+---
+CONCEPT: Karma
+SANSKRIT: कर्म
+TRANSLITERATION: karma
+DEFINITION: Karma (from Sanskrit 'kri' meaning 'to do') is the principle of cause and effect in Hindu philosophy. Every action (karma) produces consequences that affect the doer in this or future lives. The Bhagavad Gita distinguishes between karma (action), akarma (inaction), and vikarma (forbidden action). Nishkama karma — action without attachment to results — is considered the path of liberation. Karma accumulates across lifetimes (sanchita karma), affects the present life (prarabdha karma), and is currently being created (kriyamana karma).
+
+---
+CONCEPT: Brahman
+SANSKRIT: ब्रह्मन्
+TRANSLITERATION: brahman
+DEFINITION: Brahman is the ultimate, unchanging reality in Hindu philosophy, the substratum of all existence. The Upanishads describe Brahman as sat-chit-ananda (existence-consciousness-bliss). It is the impersonal absolute that underlies all phenomena. The Advaita Vedanta school, as expounded by Adi Shankaracharya, equates Brahman with Atman (individual soul) — expressed as 'Aham Brahmasmi' (I am Brahman). The Chandogya Upanishad's 'Tat Tvam Asi' (That Thou Art) also points to this identity.
+
+---
+CONCEPT: Atman
+SANSKRIT: आत्मन्
+TRANSLITERATION: ātman
+DEFINITION: Atman refers to the individual self or soul in Hindu philosophy. It is the unchanging essence of a living being — distinct from the physical body, mind, and ego. The Katha Upanishad describes Atman as 'smaller than the smallest, greater than the greatest'. Atman is considered eternal, unborn, and undying (as in Bhagavad Gita 2.20). The central question of the Upanishads — 'Who am I?' — leads to the realization that Atman is identical to Brahman (universal consciousness).
+
+---
+CONCEPT: Maya
+SANSKRIT: माया
+TRANSLITERATION: māyā
+DEFINITION: Maya in Vedantic philosophy refers to the illusion or the power that causes the phenomenal world to appear as separate from Brahman. It is Brahman's creative power (shakti) that manifests the universe. Maya operates through two functions: avarana (veiling true nature) and vikshepa (projecting false appearances). In the Advaita school, the world is real at the empirical level (vyavaharika satta) but not at the absolute level (paramarthika satta). Liberation involves piercing through Maya to realize the non-dual nature of reality.
+
+---
+CONCEPT: Moksha
+SANSKRIT: मोक्ष
+TRANSLITERATION: mokṣa
+DEFINITION: Moksha (also mukti) is liberation from the cycle of birth and death (samsara) — the highest goal (purushartha) in Hindu philosophy. It is the direct realization of one's true nature as Brahman. Different schools describe moksha differently: Advaita Vedanta sees it as the dissolution of individual identity into Brahman; Vishishtadvaita (Ramanuja) sees it as eternal union with Ishvara; Dvaita (Madhvacharya) sees it as eternal proximity to God while retaining individual identity. The Bhagavad Gita describes multiple paths to moksha: jnana yoga, bhakti yoga, karma yoga, and raja yoga.
+
+---
+CONCEPT: Om (Aum)
+SANSKRIT: ॐ
+TRANSLITERATION: om / aum
+DEFINITION: Om (written as OM or AUM) is the most sacred sound and symbol in Hinduism. The Mandukya Upanishad declares 'Om is all this' and analyzes it as representing four states of consciousness: A (waking), U (dreaming), M (deep sleep), and the silence after (turiya/pure consciousness). The Katha Upanishad states 'The goal which all the Vedas declare, which all austerities aim at, and which men desire when they lead the life of continence, I will tell you briefly: it is Om.' Om is used as a mantra in meditation and is placed at the beginning of sacred texts.
+
+---
+CONCEPT: Ahimsa
+SANSKRIT: अहिंसा
+TRANSLITERATION: ahiṁsā
+DEFINITION: Ahimsa means non-violence or non-harm in thought, word, and deed. It is the first of the five yamas in Patanjali's Yoga Sutras and a central concept in all Indian philosophical traditions. The Yoga Sutras state 'In the presence of one who is established in non-violence, all enmity ceases.' Ahimsa extends to all living beings and is based on the recognition of the divine in all life. Gandhi based his political philosophy of Satyagraha largely on the Vedic concept of Ahimsa.
+
+---
+CONCEPT: Guru
+SANSKRIT: गुरु
+TRANSLITERATION: guru
+DEFINITION: Guru (from Sanskrit 'gu' meaning darkness and 'ru' meaning remover) is a spiritual teacher who removes the darkness of ignorance. The Guru-shishya (teacher-disciple) tradition is central to Vedic knowledge transmission. The Mundaka Upanishad declares 'To know Brahman one must approach a teacher who is learned in the scriptures and established in Brahman.' The Guru is considered the physical embodiment of the divine teaching principle (Guru Tattva). Dakshina (offering to the Guru) and seva (selfless service to the Guru) are traditional ways of showing reverence.

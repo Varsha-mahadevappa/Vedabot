@@ -1,0 +1,25 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+sqlalchemy>=2.0.36
+aiosqlite>=0.20.0
+
+# LLM
+anthropic>=0.40.0
+
+# RAG
+chromadb>=0.5.20
+sentence-transformers>=3.3.0
+
+# Translation & Language Detection
+deep-translator>=1.11.4
+langdetect>=1.0.9
+
+# Blockchain
+web3>=7.4.0
+
+# Utilities
+httpx>=0.27.0
+python-multipart>=0.0.12

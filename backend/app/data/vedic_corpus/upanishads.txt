@@ -1,0 +1,73 @@
+SOURCE: Principal Upanishads
+CATEGORY: Vedanta
+DESCRIPTION: The Upanishads are late Vedic Sanskrit texts that contain some of the central philosophical concepts of Hinduism. They explore the nature of Brahman (ultimate reality) and Atman (individual soul).
+
+---
+UPANISHAD: Isha Upanishad
+VERSE: 1
+TEXT: All this — whatever exists in this changing universe — should be covered by the Lord. Protect the Self by renunciation. Lust not after any man's wealth.
+SANSKRIT: ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् | तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ||
+TRANSLITERATION: īśāvāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat | tena tyaktena bhuñjīthā mā gṛdhaḥ kasya svid dhanam ||
+
+---
+UPANISHAD: Kena Upanishad
+VERSE: 1.1
+TEXT: By whom commanded and directed does the mind go towards its objects? By whom commanded does the life-force, the first, move? By whom is this speech impelled? What intelligence directs the eye and the ear?
+SANSKRIT: केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः | केनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ||
+TRANSLITERATION: keneṣitaṁ patati preṣitaṁ manaḥ kena prāṇaḥ prathamaḥ praiti yuktaḥ | keneṣitāṁ vācam imāṁ vadanti cakṣuḥ śrotraṁ ka u devo yunakti ||
+
+---
+UPANISHAD: Katha Upanishad
+VERSE: 1.2.18
+TEXT: The knowing Self is not born, nor does It die. It has not sprung from anything, and nothing has sprung from It. It is unborn, eternal, everlasting, and primeval. It is not killed when the body is killed.
+SANSKRIT: न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||
+TRANSLITERATION: na jāyate mriyate vā vipaścin nāyaṁ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṁ purāṇo na hanyate hanyamāne śarīre ||
+
+---
+UPANISHAD: Mundaka Upanishad
+VERSE: 3.1.6
+TEXT: Truth alone triumphs; not falsehood. Through truth the divine path is spread out by which the sages whose desires have been completely fulfilled, reach where that supreme treasure of Truth resides.
+SANSKRIT: सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः | येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ||
+TRANSLITERATION: satyam eva jayate nānṛtaṁ satyena panthā vitato devayānaḥ | yenākramanty ṛṣayo hy āptakāmā yatra tat satyasya paramaṁ nidhānam ||
+
+---
+UPANISHAD: Mandukya Upanishad
+VERSE: 1.2
+TEXT: All this is Brahman. This Atman is Brahman. This same Atman has four quarters.
+SANSKRIT: सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ||
+TRANSLITERATION: sarvaṁ hy etad brahma ayam ātmā brahma so'yam ātmā catuṣpāt ||
+
+---
+UPANISHAD: Chandogya Upanishad
+VERSE: 6.8.7
+TEXT: That which is the finest essence — this whole world has that as its soul. That is Reality. That is Atman. That art thou, Shvetaketu.
+SANSKRIT: तत्त्वमसि श्वेतकेतो ||
+TRANSLITERATION: tat tvam asi śvetaketo ||
+
+---
+UPANISHAD: Brihadaranyaka Upanishad
+VERSE: 1.3.28
+TEXT: Lead me from the unreal to the real. Lead me from darkness to light. Lead me from death to immortality.
+SANSKRIT: असतो मा सद्गमय | तमसो मा ज्योतिर्गमय | मृत्योर्मा अमृतं गमय ||
+TRANSLITERATION: asato mā sad-gamaya | tamaso mā jyotir-gamaya | mṛtyor-mā amṛtaṁ gamaya ||
+
+---
+UPANISHAD: Taittiriya Upanishad
+VERSE: 2.1.1
+TEXT: Brahman is truth, knowledge, infinite. One who knows Brahman hidden in the cave of the heart, in the highest space, attains all desires together with the omniscient Brahman.
+SANSKRIT: सत्यं ज्ञानमनन्तं ब्रह्म | यो वेद निहितं गुहायां परमे व्योमन् | सोऽश्नुते सर्वान् कामान् सह | ब्रह्मणा विपश्चितेति ||
+TRANSLITERATION: satyaṁ jñānam anantaṁ brahma | yo veda nihitaṁ guhāyāṁ parame vyoman | so'śnute sarvān kāmān saha | brahmaṇā vipaściteti ||
+
+---
+UPANISHAD: Aitareya Upanishad
+VERSE: 3.3
+TEXT: Consciousness is Brahman (Prajnanam Brahma). The one who knows that Brahman is this consciousness, rises from this world and having obtained all desires in that heavenly world, becomes immortal.
+SANSKRIT: प्रज्ञानं ब्रह्म ||
+TRANSLITERATION: prajñānaṁ brahma ||
+
+---
+UPANISHAD: Kaushitaki Upanishad
+VERSE: 3.8
+TEXT: I am Brahman. I am life. I am consciousness. Worship me as life, worship me as consciousness.
+SANSKRIT: अहं ब्रह्मास्मि ||
+TRANSLITERATION: ahaṁ brahmāsmi ||

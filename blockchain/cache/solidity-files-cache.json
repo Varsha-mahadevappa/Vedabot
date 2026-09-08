@@ -1,0 +1,113 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\varsh\\PycharmProjects\\FinalProject\\blockchain\\contracts\\ResponseLog.sol": {
+      "lastModificationDate": 1774393889640,
+      "contentHash": "9a3ce69d480291d66997b7a0a9bda7ea",
+      "sourceName": "contracts/ResponseLog.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ResponseLog"
+      ]
+    },
+    "C:\\Users\\varsh\\PycharmProjects\\FinalProject\\blockchain\\contracts\\VedaKnowledge.sol": {
+      "lastModificationDate": 1774393876436,
+      "contentHash": "aeeae8cd3d0ff9fa3faf5779f7cca475",
+      "sourceName": "contracts/VedaKnowledge.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "VedaKnowledge"
+      ]
+    },
+    "C:\\Users\\varsh\\PycharmProjects\\FinalProject\\blockchain\\contracts\\VedaToken.sol": {
+      "lastModificationDate": 1774393906674,
+      "contentHash": "4353314fb0798c4cf31813f91459400f",
+      "sourceName": "contracts/VedaToken.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "VedaToken"
+      ]
+    }
+  }
+}

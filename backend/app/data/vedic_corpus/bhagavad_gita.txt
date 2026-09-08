@@ -1,0 +1,80 @@
+SOURCE: Bhagavad Gita
+CATEGORY: Vedic Scripture
+DESCRIPTION: The Bhagavad Gita, comprising 700 verses in 18 chapters, is a Hindu scripture that is part of the epic Mahabharata. It is a dialogue between prince Arjuna and the god Krishna, who serves as his charioteer.
+
+---
+CHAPTER: 1
+VERSE: 1
+TEXT: Dhritarashtra said: O Sanjaya, after my sons and the sons of Pandu assembled in the place of pilgrimage at Kurukshetra, desiring to fight, what did they do?
+SANSKRIT: धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||
+TRANSLITERATION: dhṛtarāṣṭra uvāca | dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||
+
+---
+CHAPTER: 2
+VERSE: 11
+TEXT: The Supreme Personality of Godhead said: While speaking learned words, you are mourning for what is not worthy of grief. Those who are wise lament neither for the living nor for the dead.
+SANSKRIT: श्रीभगवानुवाच | अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे | गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ||
+TRANSLITERATION: śrī-bhagavān uvāca | aśocyān-anvaśocas-tvaṁ prajñā-vādāṁś-ca bhāṣase | gatāsūn-agatāsūṁś-ca nānuśocanti paṇḍitāḥ ||
+
+---
+CHAPTER: 2
+VERSE: 19
+TEXT: Neither he who thinks the living entity the slayer nor he who thinks it slain is in knowledge, for the self slays not nor is slain.
+SANSKRIT: य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||
+TRANSLITERATION: ya enaṁ vetti hantāraṁ yaścainaṁ manyate hatam | ubhau tau na vijānīto nāyaṁ hanti na hanyate ||
+
+---
+CHAPTER: 2
+VERSE: 20
+TEXT: For the soul there is never birth nor death at any time. It has not come into being, does not come into being, and will not come into being. It is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain.
+SANSKRIT: न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||
+TRANSLITERATION: na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato'yaṁ purāṇo na hanyate hanyamāne śarīre ||
+
+---
+CHAPTER: 2
+VERSE: 47
+TEXT: You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
+SANSKRIT: कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||
+TRANSLITERATION: karmaṇy-evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo'stv akarmaṇi ||
+
+---
+CHAPTER: 3
+VERSE: 16
+TEXT: One who does not follow in human life the cycle of sacrifice thus established by the Vedas certainly leads a life full of sin. Living only for the satisfaction of the senses, such a person lives in vain.
+SANSKRIT: एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः | अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||
+TRANSLITERATION: evaṁ pravartitaṁ cakraṁ nānuvartayatīha yaḥ | aghāyur indriyārāmo moghaṁ pārtha sa jīvati ||
+
+---
+CHAPTER: 4
+VERSE: 7
+TEXT: Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion — at that time I descend Myself.
+SANSKRIT: यदा यदा हि धर्मस्य ग्लानिर्भवति भारत | अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ||
+TRANSLITERATION: yadā yadā hi dharmasya glānir bhavati bhārata | abhyutthānam adharmasya tadātmānaṁ sṛjāmy aham ||
+
+---
+CHAPTER: 4
+VERSE: 8
+TEXT: To deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I Myself appear, millennium after millennium.
+SANSKRIT: परित्राणाय साधूनां विनाशाय च दुष्कृताम् | धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ||
+TRANSLITERATION: paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām | dharma-saṁsthāpanārthāya sambhavāmi yuge yuge ||
+
+---
+CHAPTER: 6
+VERSE: 5
+TEXT: One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.
+SANSKRIT: उद्धरेदात्मनात्मानं नात्मानमवसादयेत् | आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ||
+TRANSLITERATION: uddhared ātmanātmānaṁ nātmānam avasādayet | ātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ ||
+
+---
+CHAPTER: 9
+VERSE: 22
+TEXT: But those who always worship Me with exclusive devotion, meditating on My transcendental form — to them I carry what they lack, and I preserve what they have.
+SANSKRIT: अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते | तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ||
+TRANSLITERATION: ananyāś cintayanto māṁ ye janāḥ paryupāsate | teṣāṁ nityābhiyuktānāṁ yoga-kṣemaṁ vahāmy aham ||
+
+---
+CHAPTER: 18
+VERSE: 66
+TEXT: Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reaction. Do not fear.
+SANSKRIT: सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||
+TRANSLITERATION: sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja | ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||

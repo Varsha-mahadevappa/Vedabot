@@ -1,0 +1,59 @@
+SOURCE: Yoga Sutras of Patanjali
+CATEGORY: Yoga Philosophy
+DESCRIPTION: The Yoga Sutras of Patanjali are 196 Indian sutras (aphorisms) on the theory and practice of yoga. Patanjali is considered the father of modern yoga.
+
+---
+PADA: 1 (Samadhi Pada)
+SUTRA: 1.1
+TEXT: Now, the teachings of yoga (begin).
+SANSKRIT: अथ योगानुशासनम् ||
+TRANSLITERATION: atha yoga-anuśāsanam ||
+
+---
+PADA: 1 (Samadhi Pada)
+SUTRA: 1.2
+TEXT: Yoga is the cessation of the modifications (fluctuations) of the mind.
+SANSKRIT: योगश्चित्तवृत्तिनिरोधः ||
+TRANSLITERATION: yogaś-citta-vṛtti-nirodhaḥ ||
+
+---
+PADA: 1 (Samadhi Pada)
+SUTRA: 1.3
+TEXT: Then the Seer (Self) abides in its own true nature.
+SANSKRIT: तदा द्रष्टुः स्वरूपेऽवस्थानम् ||
+TRANSLITERATION: tadā draṣṭuḥ svarūpe avasthānam ||
+
+---
+PADA: 2 (Sadhana Pada)
+SUTRA: 2.1
+TEXT: Austerity, self-study and surrender to the Lord constitute the Yoga of action (Kriya Yoga).
+SANSKRIT: तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ||
+TRANSLITERATION: tapaḥ-svādhyāya-īśvara-praṇidhānāni kriyā-yogaḥ ||
+
+---
+PADA: 2 (Sadhana Pada)
+SUTRA: 2.29
+TEXT: The eight limbs of yoga are: yama (abstinences), niyama (observances), asana (posture), pranayama (breath control), pratyahara (withdrawal of senses), dharana (concentration), dhyana (meditation), and samadhi (absorption).
+SANSKRIT: यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधयोऽष्टावङ्गानि ||
+TRANSLITERATION: yama-niyama-āsana-prāṇāyāma-pratyāhāra-dhāraṇā-dhyāna-samādhayo'ṣṭāv aṅgāni ||
+
+---
+PADA: 2 (Sadhana Pada)
+SUTRA: 2.46
+TEXT: The posture should be steady and comfortable.
+SANSKRIT: स्थिरसुखमासनम् ||
+TRANSLITERATION: sthira-sukham āsanam ||
+
+---
+PADA: 3 (Vibhuti Pada)
+SUTRA: 3.1
+TEXT: Dharana (concentration) is the binding of the mind to one place, object or idea.
+SANSKRIT: देशबन्धश्चित्तस्य धारणा ||
+TRANSLITERATION: deśa-bandhaś-cittasya dhāraṇā ||
+
+---
+PADA: 4 (Kaivalya Pada)
+SUTRA: 4.34
+TEXT: Liberation is the return of the gunas to their origin, emptied of their purpose for the Purusha. Or it is the reestablishment of the power of pure consciousness in its own nature.
+SANSKRIT: पुरुषार्थशून्यानां गुणानां प्रतिप्रसवः कैवल्यं स्वरूपप्रतिष्ठा वा चितिशक्तिरिति ||
+TRANSLITERATION: puruṣārtha-śūnyānāṁ guṇānāṁ pratiprasavaḥ kaivalyaṁ svarūpa-pratiṣṭhā vā citi-śaktir iti ||

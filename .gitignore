@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Environment variables (NEVER commit these)
+.env
+.env.local
+.env.production
+
+# Database & Vector Store
+*.db
+chroma_db/
+
+# Node
+node_modules/
+.expo/
+dist/
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mobile app (not deployed)
+mobile/
+
+# IDE
+.idea/
+.vscode/
+*.swp

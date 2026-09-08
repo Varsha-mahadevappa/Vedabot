@@ -1,0 +1,62 @@
+SOURCE: Rigveda
+CATEGORY: Veda
+DESCRIPTION: The Rigveda is an ancient Indian collection of Vedic Sanskrit hymns. It is one of the four sacred canonical texts (sruti) of Hinduism known as the Vedas. The Rigveda contains 1028 hymns (suktas) in ten books (mandalas).
+
+---
+MANDALA: 1
+HYMN: 1
+VERSE: 1
+TEXT: I laud Agni, the chosen Priest, God, minister of sacrifice, the Hotar, lavisher of wealth. Worthy is Agni to be praised by living as by ancient seers. He shall bring hitherward the Gods.
+SANSKRIT: अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् | होतारं रत्नधातमम् ||
+TRANSLITERATION: agnim īḷe purohitaṁ yajñasya devam ṛtvijam | hotāraṁ ratna-dhātamam ||
+
+---
+MANDALA: 1
+HYMN: 89
+VERSE: 1
+TEXT: May auspicious winds blow for our welfare. Auspicious be the sun that shines and auspicious the nights. May the twilight be auspicious. May the dawn be auspicious. May the earth be auspicious to us.
+SANSKRIT: आ नो भद्राः क्रतवो यन्तु विश्वतोऽदब्धासो अपरीतास उद्भिदः | देवा नो यथा सदमिद् वृधे असन्नप्रायुवो रक्षितारो दिवे-दिवे ||
+TRANSLITERATION: ā no bhadrāḥ kratavo yantu viśvato'dabdhāso aparītāsa udbhidaḥ | devā no yathā sadamid vṛdhe asann aprāyuvo rakṣitāro dive-dive ||
+
+---
+MANDALA: 1
+HYMN: 164
+VERSE: 46
+TEXT: They call it Indra, Mitra, Varuna, Agni, and it is the heavenly nobly-winged Garutman. To what is One, sages give many a title; they call it Agni, Yama, Matarisvan.
+SANSKRIT: इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् | एकं सद् विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ||
+TRANSLITERATION: indraṁ mitraṁ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān | ekaṁ sad viprā bahudhā vadanty agniṁ yamaṁ mātariśvānam āhuḥ ||
+
+---
+MANDALA: 3
+HYMN: 62
+VERSE: 10
+TEXT: We meditate on that excellent glory of the divine vivifying Sun. May He stimulate our intellects.
+SANSKRIT: तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि | धियो यो नः प्रचोदयात् ||
+TRANSLITERATION: tat savitur vareṇyaṁ bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt ||
+NOTE: This is the Gayatri Mantra, one of the most sacred mantras in Hinduism
+
+---
+MANDALA: 10
+HYMN: 90
+VERSE: 1
+TEXT: The Man (Purusha) has a thousand heads, a thousand eyes, a thousand feet. He pervaded the earth on all sides and extended beyond it as far as ten fingers.
+SANSKRIT: सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् | स भूमिं विश्वतो वृत्वात्यतिष्ठद्दशाङ्गुलम् ||
+TRANSLITERATION: sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | sa bhūmiṁ viśvato vṛtvāty atiṣṭhad daśāṅgulam ||
+NOTE: This is the Purusha Sukta, describing the cosmic Person (Brahman/God)
+
+---
+MANDALA: 10
+HYMN: 129
+VERSE: 1
+TEXT: Then even nothingness was not, nor existence. There was no air then, nor the heavens beyond it. What covered it? Where was it? In whose keeping? Was there then cosmic water, in depths unfathomed?
+SANSKRIT: नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् | किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ||
+TRANSLITERATION: nāsad āsīn no sad āsīt tadānīṁ nāsīd rajo no vyomā paro yat | kim āvarīvaḥ kuha kasya śarmann ambhaḥ kim āsīd ghahanaṁ gabhīram ||
+NOTE: This is the Nasadiya Sukta (Hymn of Creation), one of the earliest known attempts at cosmological speculation
+
+---
+MANDALA: 10
+HYMN: 191
+VERSE: 2-4
+TEXT: Assemble, speak together: let your minds be all of one accord. As ancient gods unanimous sat down to their appointed share, the place is common, common the assembly, common the mind, so be your thought united. A common purpose do I lay before you, and worship with your general oblation. One and the same be your resolve, and be your minds of one accord. United be the thoughts of all that all may happily agree.
+SANSKRIT: समानी व आकूतिः समाना हृदयानि वः | समानमस्तु वो मनो यथा वः सुसहासति ||
+TRANSLITERATION: samānī va ākūtiḥ samānā hṛdayāni vaḥ | samānam astu vo mano yathā vaḥ susahāsati ||
